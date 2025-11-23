@@ -1140,7 +1140,6 @@ GOOS=darwin GOARCH=amd64 go build -o non-agent-api-macos
 
 ## License
 
-Copyright 2025 - VICIdial Non-Agent API Go Implementation
 
 This project implements the VICIdial Non-Agent API which is:
 Copyright (C) 2025 Matt Florell <vicidial.com>
